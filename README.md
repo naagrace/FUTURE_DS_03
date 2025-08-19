@@ -9,7 +9,8 @@ The student feedback Dashboard analyzes student evaluation survey data using Goo
 
 
 ## Dashboard Preview
-![studentfeedbackdashboard]
+![Student Feedback Dashboard](student%20feedback%20dashboard.png)
+
 
 
 ## 🎯 Objectives
