@@ -38,7 +38,7 @@ TextBlob / VADER – Sentiment analysis
 
 ## 📊 Dataset Details
 
-Source: Student feedback surveys exported from Google Forms (real or simulated).
+Source: Student feedback surveys exported from Kaggle (https://www.kaggle.com/datasets/ruchi798/student-feedback-survey-responses).
 
 
 ## 📈 Visualizations
