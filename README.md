@@ -7,6 +7,11 @@ This project analyzes student  survey data using Google Colab. It provides summa
 
 The student feedback Dashboard analyzes student evaluation survey data using Google Colab. It identifies trends in teaching effectiveness, highlights strengths and areas for improvement, and provides actionable recommendations to enhance the student learning experience.
 
+
+## Dashboard Preview
+![studentfeedbackdashboard]
+
+
 ## 🎯 Objectives
 
 Analyze student feedback on courses and instructors.
