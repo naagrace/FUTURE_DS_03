@@ -1,5 +1,5 @@
 # FUTURE_DS_03
-This project analyzes student  survey data using Google Colab. It provides summary statistics, visualizations, and insights into teaching effectiveness. The analysis identifies key strengths and improvement areas, offering actionable recommendations to enhance the overall student learning experience.
+This project analyzes student  survey data using Google Colab. It provides summary statistics, visualizations, and insights into teaching effectiveness. The analysis identifies key strengths and areas for improvement, offering actionable recommendations to enhance the overall student learning experience and this is Task 3 of my internship at Future Interns.
 
 ## 🎓 Student Feedback Dashboard
 
@@ -17,7 +17,8 @@ Highlight strengths and areas for improvement.
 
 Provide actionable recommendations based on insights.
 
-##🛠 Tools and Technologies
+
+## 🛠 Tools and Technologies
 
 Google Colab – Online coding environment
 
@@ -48,9 +49,9 @@ Questions with low negative ratings – Bar Chart
 
 Correlation heatmap between questions – Heatmap
 
-💡 Insights
+## 💡 Insights
 
-“Well versed with the subject” and “Explains concepts clearly” scored highest.
+“Well-versed with the subject” and “Explains concepts clearly” scored highest.
 
 “Degree of difficulty of assignments” scored lowest and had the most negative feedback.
 
@@ -72,5 +73,5 @@ Monitor neutral and negative feedback regularly to address emerging issues promp
 
 🔗 LinkedIn
 
-[Your LinkedIn Profile URL]  
-## 
+[www.linkedin.com/in/graceokine]  
+ 
